@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+NOTE: BOILERPLATE README MD FILE FROM CREATE REACT APP, NEED TO EDIT AND REFACTOR AT LATER DATE
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
